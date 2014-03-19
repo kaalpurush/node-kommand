@@ -1,4 +1,4 @@
-kommand
+node-kommand
 =======
 
 [![NPM](https://nodei.co/npm/kommand.png)](https://nodei.co/npm/kommand/)
