@@ -1,2 +1,2 @@
 @echo off
-node ../tests/run.js
+node ../tests/server.js
