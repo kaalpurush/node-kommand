@@ -3,7 +3,7 @@ var config = require('./config');
 var path=require('path');
 var exec = require('child_process').exec;
 
-kommand.run(config.port, config.ip, false);
+kommand.start(config.port, config.ip, false);
 
 kommand.on('data',function(data){
 	console.log(data);
